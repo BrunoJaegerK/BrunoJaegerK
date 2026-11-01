@@ -1,13 +1,17 @@
 {
- "key": "81d6e04b",
+ "key": "6172a34f",
  "stars": 0,
- "contributions": 96,
- "repos": 25,
+ "contributions": 99,
+ "repos": 26,
  "followers": 0,
  "languages": [
   [
    "Java",
    303789
+  ],
+  [
+   "HTML",
+   31142
   ]
  ],
  "days": [
@@ -87,7 +91,7 @@
   ],
   [
    {
-    "c": 5,
+    "c": 8,
     "day": 1,
     "today": true
    },
@@ -105,6 +109,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "deluxemine-store",
+   "url": "https://github.com/BrunoJaegerK/deluxemine-store",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
   {
    "name": "BrunoJaegerK",
    "url": "https://github.com/BrunoJaegerK/BrunoJaegerK",
