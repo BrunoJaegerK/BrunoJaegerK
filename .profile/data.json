@@ -1,0 +1,376 @@
+{
+ "key": "81d6e04b",
+ "stars": 0,
+ "contributions": 96,
+ "repos": 25,
+ "followers": 0,
+ "languages": [
+  [
+   "Java",
+   303789
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 5,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 7,
+  "longest": 7
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "BrunoJaegerK",
+   "url": "https://github.com/BrunoJaegerK/BrunoJaegerK",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AuctionHouseNK",
+   "url": "https://github.com/BrunoJaegerK/AuctionHouseNK",
+   "text": "🔨 Plugin de casa de subastas para NukkitPetteriM1Edition. Permite comerciar objetos entre jugadores mediante una interfaz gráfica, con EconomyAPI, límites por rango y almacenamiento SQLite.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
+  },
+  {
+   "name": "SimpleHomesNK",
+   "url": "https://github.com/BrunoJaegerK/SimpleHomesNK",
+   "text": "SimpleHomesNK es un plugin de gestión de hogares para NukkitPetteriM1Edition, con teletransporte seguro, interfaz gráfica, renombrado de hogares y límites configurables por rango. Creado para DELUXEMINE NETWORK.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin"
+   ]
+  },
+  {
+   "name": "Auction",
+   "url": "https://github.com/BrunoJaegerK/Auction",
+   "text": "AuctionHouse | Minecraft Bedrock Edition | Nukkit",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "FakeInventories",
+   "url": "https://github.com/BrunoJaegerK/FakeInventories",
+   "text": "Create fake inventories",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "NeoProtectV2",
+   "url": "https://github.com/BrunoJaegerK/NeoProtectV2",
+   "text": "Приватный плагин на приват блоками с интеграцией с Telegram ботом",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MountKingMX",
+   "url": "https://github.com/BrunoJaegerK/MountKingMX",
+   "text": "MountKingMX - Plugin for the King of the Mountain!",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "present",
+   "url": "https://github.com/BrunoJaegerK/present",
+   "text": "un plugin de tesoros",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "DeluxeStats",
+   "url": "https://github.com/BrunoJaegerK/DeluxeStats",
+   "text": "Statistics, rankings and seasonal rewards plugin for NukkitPetteriM1Edition.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "minecraft",
+    "nukkit-plugin",
+    "nukkitx",
+    "nukkitx-plugins"
+   ]
+  },
+  {
+   "name": "MentionSound",
+   "url": "https://github.com/BrunoJaegerK/MentionSound",
+   "text": "A Nukkit plugin to play sound when you get @ mentioned in game",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "RsNPC",
+   "url": "https://github.com/BrunoJaegerK/RsNPC",
+   "text": "NPC plugin for Nukkit-MOT",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "RankshopUIV2",
+   "url": "https://github.com/BrunoJaegerK/RankshopUIV2",
+   "text": "Plugin Rankshop para servidores de minecraft bedrock que usan nukkit o sus forks",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "minecraft",
+    "nukkit",
+    "nukkit-plugin",
+    "nukkitplugin",
+    "nukkitx-plugin"
+   ]
+  },
+  {
+   "name": "RankShop",
+   "url": "https://github.com/BrunoJaegerK/RankShop",
+   "text": "An RankShop plugin for Nukkit!",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "NeoBuyerV2.2",
+   "url": "https://github.com/BrunoJaegerK/NeoBuyerV2.2",
+   "text": "Plugin de tienda para servidores de minecraft bedrock que usan Nukkitt y sus forks",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "LlamaTroll",
+   "url": "https://github.com/BrunoJaegerK/LlamaTroll",
+   "text": "LlamaTroll plugin for Nukkit",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "LlamaVote",
+   "url": "https://github.com/BrunoJaegerK/LlamaVote",
+   "text": "A simple vote plugin with LlamaEconomy support.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "LlamaVouchers",
+   "url": "https://github.com/BrunoJaegerK/LlamaVouchers",
+   "text": "Create gift codes for your players.",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "MineClearance",
+   "url": "https://github.com/BrunoJaegerK/MineClearance",
+   "text": "一款扫雷小游戏 指令/mt",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "NeoBuyerV2",
+   "url": "https://github.com/BrunoJaegerK/NeoBuyerV2",
+   "text": "Buyer plugin for Nukkit-MOT",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "butcheritems",
+   "url": "https://github.com/BrunoJaegerK/butcheritems",
+   "text": "Plugin para disminuir el lag en servidores nukkit",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "cloudburstmc",
+    "minecraft-plugin",
+    "nukkit-plugin",
+    "nukkitx",
+    "powernukkit-plugins"
+   ]
+  },
+  {
+   "name": "Bedrock-ProxyPass",
+   "url": "https://github.com/BrunoJaegerK/Bedrock-ProxyPass",
+   "text": "MITM proxy tool for Minecraft: Bedrock Edition",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "PowerNukkit",
+   "url": "https://github.com/BrunoJaegerK/PowerNukkit",
+   "text": "A Nukkit fork which supports new Minecraft Bedrock features",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "smile-rp",
+   "url": "https://github.com/BrunoJaegerK/smile-rp",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MRPGNPC",
+   "url": "https://github.com/BrunoJaegerK/MRPGNPC",
+   "text": "custom mob with skin,model,functions",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SRegionProtector",
+   "url": "https://github.com/BrunoJaegerK/SRegionProtector",
+   "text": "Flexible region protection plugin for nukkit",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  }
+ ]
+}
