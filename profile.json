@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "login": "BrunoJaegerK",
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons",
+    "projects"
+  ],
+  "hero": {
+    "greeting": "Hola, Soy ",
+    "name": "PsychoWho",
+    "subtitle": "o también llamame BrunoJaegerK",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Ecuador"
+      },
+      {
+        "icon": "code",
+        "label": "Java - Python - C++"
+      },
+      {
+        "icon": "public",
+        "label": "Español"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Programador Junior"
+      },
+      {
+        "icon": "code",
+        "label": "Especializado en Java"
+      },
+      {
+        "icon": "palette",
+        "label": "Aprendiendo cada día"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Stack tecnológico",
+    "groups": [
+      {
+        "title": "Control",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "NodeJs"
+          }
+        ]
+      },
+      {
+        "title": "Herramientas",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Actividad en GitHub ",
+    "stars": "Estrellas",
+    "contributions": "Contribuciones",
+    "repos": "Repositorios",
+    "followers": "Seguidores",
+    "calendar": "Ultimos 28 dias",
+    "weekdays": "SMTWTFS",
+    "languages": "Lenguajes de mis repositorios",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Racha",
+    "longest": "El más largo de este año",
+    "days": "Dias"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/H8QvaDCVA7"
+      },
+      {
+        "icon": "brand:kotlin",
+        "url": "https://"
+      },
+      {
+        "icon": "brand:python",
+        "url": "https://"
+      },
+      {
+        "icon": "brand:openjdk",
+        "url": "https://"
+      }
+    ],
+    "variant": "icon",
+    "fill": "outlined",
+    "card": false,
+    "shape": "pill"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
