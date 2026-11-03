@@ -1,17 +1,21 @@
 {
- "key": "d5b0e6c6",
+ "key": "1444c76a",
  "stars": 0,
- "contributions": 99,
- "repos": 26,
+ "contributions": 128,
+ "repos": 27,
  "followers": 0,
  "languages": [
   [
    "Java",
-   303789
+   330365
+  ],
+  [
+   "JavaScript",
+   35125
   ],
   [
    "HTML",
-   31142
+   28998
   ]
  ],
  "days": [
@@ -96,12 +100,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 19,
     "day": 2,
     "today": false
    },
    {
-    "c": 0,
+    "c": 10,
     "day": 3,
     "today": true
    },
@@ -112,18 +116,38 @@
   ]
  ],
  "streak": {
-  "current": 0,
-  "longest": 7
+  "current": 9,
+  "longest": 9
  },
  "pins": [],
  "all": [
+  {
+   "name": "TimeIsMoneyNK",
+   "url": "https://github.com/BrunoJaegerK/TimeIsMoneyNK",
+   "text": "TimeIsMoneyNK is a Nukkit plugin that rewards players with in-game money based on their online time, featuring customizable rank rewards and AFK detection.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
+  },
   {
    "name": "deluxemine-store",
    "url": "https://github.com/BrunoJaegerK/deluxemine-store",
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": "HTML",
+   "language": "JavaScript",
    "topics": []
   },
   {
