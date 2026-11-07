@@ -1,13 +1,13 @@
 {
- "key": "e05141fc",
+ "key": "f6258016",
  "stars": 0,
- "contributions": 135,
+ "contributions": 149,
  "repos": 29,
  "followers": 0,
  "languages": [
   [
    "Java",
-   353176
+   428095
   ],
   [
    "JavaScript",
@@ -120,11 +120,15 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 16,
     "day": 6,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 7,
+    "today": true
+   }
   ]
  ],
  "streak": {
@@ -136,11 +140,22 @@
   {
    "name": "DeluxeBounties",
    "url": "https://github.com/BrunoJaegerK/DeluxeBounties",
-   "text": "",
+   "text": "Sistema de recompensas PvP que permite a los jugadores colocar recompensas sobre otros usuarios, competir por objetivos y ganar dinero al eliminarlos.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
   },
   {
    "name": "endstone-test",
