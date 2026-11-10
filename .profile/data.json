@@ -1,13 +1,13 @@
 {
- "key": "336ac940",
+ "key": "39e5089a",
  "stars": 0,
- "contributions": 171,
+ "contributions": 174,
  "repos": 32,
  "followers": 0,
  "languages": [
   [
    "Java",
-   559694
+   560165
   ],
   [
    "JavaScript",
@@ -104,11 +104,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -116,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 10
  },
  "pins": [],
@@ -124,11 +128,22 @@
   {
    "name": "SimpleCrates1",
    "url": "https://github.com/BrunoJaegerK/SimpleCrates1",
-   "text": "",
+   "text": "Enhanced fork of SimpleCrates for NukkitPetteriM1Edition, featuring custom particle effects, reward previews and opening animations.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
   },
   {
    "name": "WorldGeneratorExtension",
