@@ -1,5 +1,5 @@
 {
- "key": "adfafa41",
+ "key": "bfac6ea0",
  "stars": 0,
  "contributions": 229,
  "repos": 35,
@@ -106,9 +106,13 @@
    {
     "c": 13,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
