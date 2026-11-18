@@ -1,5 +1,5 @@
 {
- "key": "9481dcaf",
+ "key": "59f32cf2",
  "stars": 0,
  "contributions": 502,
  "repos": 37,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Java",
-   721991
+   738278
   ],
   [
    "JavaScript",
@@ -111,9 +111,13 @@
    {
     "c": 273,
     "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
     "today": true
    },
-   null,
    null,
    null,
    null
