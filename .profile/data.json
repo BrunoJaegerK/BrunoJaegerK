@@ -1,13 +1,13 @@
 {
- "key": "59f32cf2",
+ "key": "e2186fe0",
  "stars": 0,
- "contributions": 502,
- "repos": 37,
+ "contributions": 522,
+ "repos": 38,
  "followers": 1,
  "languages": [
   [
    "Java",
-   738278
+   758822
   ],
   [
    "JavaScript",
@@ -114,7 +114,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 20,
     "day": 18,
     "today": true
    },
@@ -124,46 +124,108 @@
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 6,
   "longest": 10
  },
  "pins": [],
  "all": [
   {
-   "name": "KothNK",
-   "url": "https://github.com/BrunoJaegerK/KothNK",
-   "text": "",
+   "name": "SimpleKothNK",
+   "url": "https://github.com/BrunoJaegerK/SimpleKothNK",
+   "text": "Plugin ligero para organizar eventos King of the Hill con capturas individuales y recompensas personalizables en Nukkit.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "minecraft",
+    "minecraft-plugin-dev",
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin"
+   ]
+  },
+  {
+   "name": "KothNK",
+   "url": "https://github.com/BrunoJaegerK/KothNK",
+   "text": "Sistema completo de eventos King of the Hill con arenas, capturas, recompensas y configuración personalizable para Nukkit.",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
   },
   {
    "name": "WorldEventsNK",
    "url": "https://github.com/BrunoJaegerK/WorldEventsNK",
-   "text": "",
+   "text": "Plugin de eventos dinámicos que añade meteoritos y acontecimientos especiales para enriquecer la experiencia de supervivencia en Nukkit.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "bedrock",
+    "bedrock-edition",
+    "bedrock-server",
+    "minecraft",
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin"
+   ]
   },
   {
    "name": "ChatGamesNK",
    "url": "https://github.com/BrunoJaegerK/ChatGamesNK",
-   "text": "",
+   "text": "Colección de minijuegos interactivos en el chat con desafíos, participación de jugadores y recompensas para Nukkit.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
   },
   {
    "name": "CustomRankJoinMessagesNK",
    "url": "https://github.com/BrunoJaegerK/CustomRankJoinMessagesNK",
-   "text": "",
+   "text": "Personaliza los mensajes de entrada y salida del servidor según los rangos y permisos de cada jugador.",
    "fork": false,
    "stars": 0,
    "language": "Java",
-   "topics": []
+   "topics": [
+    "minecraft",
+    "minecraft-mod-2026",
+    "minecraft-plugin-dev",
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx"
+   ]
   },
   {
    "name": "NukkitPetteriM1Edition",
