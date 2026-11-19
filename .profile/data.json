@@ -1,13 +1,13 @@
 {
- "key": "b1bf2bd4",
+ "key": "3add190c",
  "stars": 0,
- "contributions": 551,
- "repos": 39,
+ "contributions": 688,
+ "repos": 42,
  "followers": 1,
  "languages": [
   [
    "Java",
-   769335
+   862186
   ],
   [
    "JavaScript",
@@ -119,7 +119,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 138,
     "day": 19,
     "today": true
    },
@@ -133,6 +133,53 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "AntiAFKMX",
+   "url": "https://github.com/BrunoJaegerK/AntiAFKMX",
+   "text": "AntiAFK - A powerful AFK detection plugin that automatically identifies and kicks inactive players!",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "DeluxeShopNK",
+   "url": "https://github.com/BrunoJaegerK/DeluxeShopNK",
+   "text": "Plugin de tienda basado en el confiable llamashop con mejoras",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
+  },
+  {
+   "name": "EconomyExpandNK",
+   "url": "https://github.com/BrunoJaegerK/EconomyExpandNK",
+   "text": "Economia secundaria para servidores de minecraft bedrock que usan nukkit o sus forks",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "nukkit",
+    "nukkit-mot",
+    "nukkit-mot-plugin",
+    "nukkit-plugin",
+    "nukkit-plugins",
+    "nukkitplugin",
+    "nukkitx",
+    "nukkitx-plugin",
+    "nukkitx-plugins"
+   ]
+  },
   {
    "name": "Invsee",
    "url": "https://github.com/BrunoJaegerK/Invsee",
