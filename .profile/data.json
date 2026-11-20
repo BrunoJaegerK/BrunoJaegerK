@@ -1,5 +1,5 @@
 {
- "key": "6d320db4",
+ "key": "f2720dde",
  "stars": 0,
  "contributions": 690,
  "repos": 43,
@@ -121,9 +121,13 @@
    {
     "c": 140,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
