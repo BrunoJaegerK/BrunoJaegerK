@@ -1,13 +1,13 @@
 {
- "key": "56b90d95",
+ "key": "b28e0c4b",
  "stars": 0,
- "contributions": 691,
- "repos": 43,
+ "contributions": 705,
+ "repos": 47,
  "followers": 1,
  "languages": [
   [
    "Java",
-   862186
+   885629
   ],
   [
    "JavaScript",
@@ -109,22 +109,62 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 14,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 2,
   "longest": 10
  },
  "pins": [],
  "all": [
+  {
+   "name": "AdvancedEnchantmentsNK",
+   "url": "https://github.com/BrunoJaegerK/AdvancedEnchantmentsNK",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AbstractSkyWarsss",
+   "url": "https://github.com/BrunoJaegerK/AbstractSkyWarsss",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AdvancedPerks",
+   "url": "https://github.com/BrunoJaegerK/AdvancedPerks",
+   "text": "An advanced perk plugin",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "advanced-perks",
+   "url": "https://github.com/BrunoJaegerK/advanced-perks",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
   {
    "name": "CombatAWM",
    "url": "https://github.com/BrunoJaegerK/CombatAWM",
